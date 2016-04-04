@@ -7,6 +7,10 @@
     "glisy",
     "uniform"
   ],
+  "src": [
+    "include/glisy/uniform.h",
+    "src/uniform.c"
+  ],
   "dependencies": {
     "glisy/gl": "master",
     "glisy/program": "master"
