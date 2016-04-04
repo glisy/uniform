@@ -1,0 +1,14 @@
+{
+  "name": "glisy",
+  "version": "0.0.1",
+  "repo": "glisy/uniform",
+  "description": "GlisyUniform",
+  "keywords": [
+    "glisy",
+    "uniform"
+  ],
+  "dependencies": {
+    "glisy/gl": "master",
+    "glisy/program": "master"
+  }
+}
